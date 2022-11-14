@@ -1,0 +1,15 @@
+C:\Users\varda\Desktop\WarehouseSystem\WarehouseManagement\bin\Debug\net6.0\WarehouseManagement.exe
+C:\Users\varda\Desktop\WarehouseSystem\WarehouseManagement\bin\Debug\net6.0\WarehouseManagement.deps.json
+C:\Users\varda\Desktop\WarehouseSystem\WarehouseManagement\bin\Debug\net6.0\WarehouseManagement.runtimeconfig.json
+C:\Users\varda\Desktop\WarehouseSystem\WarehouseManagement\bin\Debug\net6.0\WarehouseManagement.dll
+C:\Users\varda\Desktop\WarehouseSystem\WarehouseManagement\bin\Debug\net6.0\WarehouseManagement.pdb
+C:\Users\varda\Desktop\WarehouseSystem\WarehouseManagement\obj\Debug\net6.0\WarehouseManagement.csproj.AssemblyReference.cache
+C:\Users\varda\Desktop\WarehouseSystem\WarehouseManagement\obj\Debug\net6.0\WarehouseManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varda\Desktop\WarehouseSystem\WarehouseManagement\obj\Debug\net6.0\WarehouseManagement.AssemblyInfoInputs.cache
+C:\Users\varda\Desktop\WarehouseSystem\WarehouseManagement\obj\Debug\net6.0\WarehouseManagement.AssemblyInfo.cs
+C:\Users\varda\Desktop\WarehouseSystem\WarehouseManagement\obj\Debug\net6.0\WarehouseManagement.csproj.CoreCompileInputs.cache
+C:\Users\varda\Desktop\WarehouseSystem\WarehouseManagement\obj\Debug\net6.0\WarehouseManagement.dll
+C:\Users\varda\Desktop\WarehouseSystem\WarehouseManagement\obj\Debug\net6.0\refint\WarehouseManagement.dll
+C:\Users\varda\Desktop\WarehouseSystem\WarehouseManagement\obj\Debug\net6.0\WarehouseManagement.pdb
+C:\Users\varda\Desktop\WarehouseSystem\WarehouseManagement\obj\Debug\net6.0\WarehouseManagement.genruntimeconfig.cache
+C:\Users\varda\Desktop\WarehouseSystem\WarehouseManagement\obj\Debug\net6.0\ref\WarehouseManagement.dll
